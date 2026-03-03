@@ -1,0 +1,23 @@
+Skill,Industry,Wage_1913,Wage_1925,Wage_1930,Wage_1939
+Skilled,Coal mining,81.1,92.1,123.9,98
+Skilled,Building,70.5,95.9,141,92.7
+Skilled,Brewing,67.6,91,129.4,110.2
+Skilled,Metals,66.2,80.7,103.3,85.6
+Skilled,Woodworking,62.7,85.5,123.6,86.3
+Skilled,Printing,61,83.9,116.9,95.8
+Skilled,Chemicals,57,76.4,107.9,87.4
+Skilled,Baking,50.4,78,105.6,84.4
+Skilled,Paper products,48.2,69.4,97.2,78.2
+Skilled,Textiles,44.7,58.1,79.3,66.3
+Skilled,Papermaking,32.6,61.1,87.3,70.9
+Unskilled,Building,55.7,79.7,116.2,77.9
+Unskilled,Brewing,54.7,79.7,114.9,97.9
+Unskilled,Printing,48.5,73.2,101.8,78.5
+Unskilled,Chemicals,46,65.8,89.4,72.6
+Unskilled,Woodworking,45.3,74.2,106.5,69.6
+Unskilled,Metals,42.5,53.9,77.4,63.1
+Unskilled,Baking,41,67.6,90.8,72.6
+Unskilled,Coal mining,35.9,54.2,78,62.1
+Unskilled,Paper products,35.6,59,82.7,65.8
+Unskilled,Textiles,34.6,48.6,66.6,55.7
+Unskilled,Papermaking,29.4,55.3,78.4,61.4
